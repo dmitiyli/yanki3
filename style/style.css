@@ -399,31 +399,6 @@ text-shadow: 0 5px 20px rgb(255, 196, 0);
 }
 
 
-
-
-
-/* .text {
-    color:#887fe4 ;
-} */
-/* .input{
-    background: #2a3b5f69;
-}
-.btn{
-    background: #273a64;
-}
-.bg{
-    background: #2a3b5f69;
-
-} */
-
-/* .text__bg{
-    color:black
-} */
-
-
-
-
-
 /* adaptive */
 @media (max-width:440px) {
     .header {
